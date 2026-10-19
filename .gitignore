@@ -9,3 +9,4 @@ dist
 # Source material kept locally, not published with the app
 frontend/docs/
 frontend/design/
+*.tsbuildinfo
