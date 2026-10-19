@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.*
+*.local
+*:Zone.Identifier
+.DS_Store
+
+# Source material kept locally, not published with the app
+frontend/docs/
+frontend/design/
