@@ -4,7 +4,7 @@ CommunitySafe is a Bitcoin multisignature wallet coordination platform for commu
 
 This repository is the React web frontend.
 
-**Live prototype:** https://waridi318.github.io/communitysafe-frontend/
+**Live prototype:** https://waridi318.github.io/CommunitySafe/
 
 > **All data is mocked.** There is no backend yet. Everything runs in the browser against an in-memory mock that simulates a regtest Bitcoin network. No real Bitcoin is involved, nothing is saved between page reloads, and the app never asks for or stores a private key or recovery phrase.
 
@@ -15,7 +15,7 @@ Requires Node.js 20.19+ or 22.12+.
 ```bash
 cd frontend
 npm install
-npm run dev        # http://localhost:5173/communitysafe-frontend/
+npm run dev        # http://localhost:5173/CommunitySafe/
 npm run build      # type-checks, then builds to frontend/dist
 npm run preview    # serves the production build
 ```
